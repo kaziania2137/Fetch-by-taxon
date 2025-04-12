@@ -1,5 +1,5 @@
 
-Hi this is my program made with chatgpt that extracts recent obesrvations on inaturalist and here is how to do it:
+Hi this is my program made with chatgpt that can extract pictures of every animal on earthand here is how to do it:
 
 first and the most important, you need to have python installed, you can get it from https://python.org.
 important when istalling you need to check the "Add python to PATH" option, so it works
